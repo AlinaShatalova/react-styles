@@ -6,4 +6,4 @@ as a result of the project, i learned:
 - how to use css modules;
 
 ## Demo
-https://gitname.github.io/react-styles/
+https://alinashatalova.github.io/react-styles/
